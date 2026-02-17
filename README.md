@@ -55,3 +55,4 @@ into meaningful visual insights.
 This dashboard provides a overview of
 movie industry performance using IMDB data.
 
+
